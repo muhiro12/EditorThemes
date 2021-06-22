@@ -1,0 +1,17 @@
+{
+    "name": "theme-custom",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": ">=0.9.0-pre.1"
+    },
+    "publisher": "muhiro_",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Custom",
+                "uiTheme": "vs-dark",
+                "path": "./themes/custom.json"
+            }
+        ]
+    }
+}
